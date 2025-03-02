@@ -25,13 +25,7 @@ import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage';
 
 // Firebase config
 const firebaseConfig = {
-  apiKey: "AIzaSyCMJiGy4rTEAA6YQfvrfS_QtI8XTbw0J0A",
-  authDomain: "finalhealthhub.firebaseapp.com",
-  projectId: "finalhealthhub",
-  storageBucket: "finalhealthhub.firebasestorage.app",
-  messagingSenderId: "448193974966",
-  appId: "1:448193974966:web:815ebc759c48bc9df3cc17",
-  measurementId: "G-Z74W59QXQM"
+ 
 };
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
