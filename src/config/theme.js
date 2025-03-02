@@ -40,4 +40,4 @@ export const theme = {
   },
 };
 
-export const API_URL = 'https://1e8e-103-134-3-142.ngrok-free.app'; 
+export const API_URL = 'current ngrok address'; 

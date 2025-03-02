@@ -1,5 +1,5 @@
-const CLOUDINARY_URL = 'https://api.cloudinary.com/v1_1/ddmnzwihw/auto/upload';
-const UPLOAD_PRESET = 'doctor_uploads';
+const CLOUDINARY_URL = 'yourapikey';
+const UPLOAD_PRESET = 'youruploaded_preset';
 
 export const uploadImageToCloudinary = async (imageUri) => {
   try {
